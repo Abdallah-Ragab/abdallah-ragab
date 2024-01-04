@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdallah-ragab&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah-ragab" /> </p>
 
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
+
 
 <h3 align="left">Contact me:</h3>
 via email <b>abdallahsamehragab1@gmail.com</b>
@@ -40,9 +42,6 @@ via email <b>abdallahsamehragab1@gmail.com</b>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abdallah-Ragab&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abdallah-Ragab&limit=5&theme=dark&combine_all_yearly_contributions=true)
