@@ -28,12 +28,35 @@ via email <b>abdallahsamehragab1@gmail.com</b>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abdallah-Ragab&theme=nord&no-frame=false&no-bg=false&margin-w=12)
 
-## 📊 GitHub Stats:
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallah-ragab&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=dark" alt="abdallah-ragab" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdallah-ragab&locale=en&layout=compact&include_all_commits=true&count_private=true&theme=dark" alt="abdallah-ragab" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallah-ragab&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true&theme=dark" alt="abdallah-ragab" /></p>
+## 📊 Stats:
+<table style="border-collapse: collapse; border: none;">
+    <thead></thead>
+  <tr background=none>
+    <td>
+        <p align="center">  
+          <img align=center src="https://leetcard.jacoblin.cool/abdallaragab?theme=dark&font=Merriweather%20Sans">    
+        </p>
+    </td> 
+    <td>
+        <p align="center">  
+          <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=abdallah-ragab&locale=en&layout=compact&include_all_commits=true&count_private=true&theme=dark" alt="abdallah-ragab" />
+        </p>
+    </td> 
+  </tr>
+    <tr background=none>
+    <td>
+        <p align="center">  
+            <img align="center" height=full src="https://github-readme-stats.vercel.app/api?username=abdallah-ragab&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=dark" alt="abdallah-ragab" />
+        </p>
+    </td> 
+    <td>
+        <p align="center">  
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallah-ragab&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true&theme=dark" alt="abdallah-ragab" />
+        </p>
+    </td> 
+  </tr>
+    </thead>
+</table>
 
-
-
-## Having a rough day ? I got you
-<p align="center"><img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></p>
+## Your Daily Dose Of Coding Memes
+<p><img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></p>
