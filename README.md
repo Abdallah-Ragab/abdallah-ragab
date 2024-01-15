@@ -29,12 +29,12 @@ via email <b>abdallahsamehragab1@gmail.com</b>
 ![](https://github-profile-trophy.vercel.app/?username=Abdallah-Ragab&theme=nord&no-frame=false&no-bg=false&margin-w=12)
 
 ## 📊 Stats:
-<table style="border-collapse: collapse; border: none;">
-    <thead></thead>
+<table>
+  <thead>
   <tr background=none>
     <td>
         <p align="center">  
-          <img align=center src="https://leetcard.jacoblin.cool/abdallaragab?theme=dark&font=Merriweather%20Sans">    
+            <img align="center" height=full src="https://github-readme-stats.vercel.app/api?username=abdallah-ragab&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=dark" alt="abdallah-ragab" />
         </p>
     </td> 
     <td>
@@ -43,10 +43,15 @@ via email <b>abdallahsamehragab1@gmail.com</b>
         </p>
     </td> 
   </tr>
-    <tr background=none>
+  </thead>
+</table>
+
+<table>
+<thead>  
+  <tr background=none>
     <td>
-        <p align="center">  
-            <img align="center" height=full src="https://github-readme-stats.vercel.app/api?username=abdallah-ragab&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=dark" alt="abdallah-ragab" />
+        <p align="center">
+            <img align=center src="https://leetcard.jacoblin.cool/abdallaragab?theme=dark&font=Merriweather%20Sans">    
         </p>
     </td> 
     <td>
@@ -55,7 +60,7 @@ via email <b>abdallahsamehragab1@gmail.com</b>
         </p>
     </td> 
   </tr>
-    </thead>
+</thead>
 </table>
 
 ## Your Daily Dose Of Coding Memes
