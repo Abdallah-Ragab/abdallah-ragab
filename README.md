@@ -9,7 +9,6 @@
 ## Contact me:
 via email <b>abdallahsamehragab1@gmail.com</b>
 
-## 📌 Pinned Repositories:
 
 ### 🌐 Socials:
 <p align="left">
@@ -34,32 +33,32 @@ via email <b>abdallahsamehragab1@gmail.com</b>
   <thead>
   <tr background=none>
     <td>
-        <p align="center">
+        <p align="center">  
             <img align="center" height=full src="https://github-readme-stats.vercel.app/api?username=abdallah-ragab&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=dark" alt="abdallah-ragab" />
         </p>
-    </td>
+    </td> 
     <td>
-        <p align="center">
+        <p align="center">  
           <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=abdallah-ragab&locale=en&layout=compact&include_all_commits=true&count_private=true&theme=dark" alt="abdallah-ragab" />
         </p>
-    </td>
+    </td> 
   </tr>
   </thead>
 </table>
 
 <table>
-<thead>
+<thead>  
   <tr background=none>
     <td>
         <p align="center">
-            <img align=center src="https://leetcard.jacoblin.cool/Abdallah-Ragab?theme=dark&font=Merriweather%20Sans">
+            <img align=center src="https://leetcard.jacoblin.cool/Abdallah-Ragab?theme=dark&font=Merriweather%20Sans">    
         </p>
-    </td>
+    </td> 
     <td>
-        <p align="center">
+        <p align="center">  
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallah-ragab&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true&theme=dark" alt="abdallah-ragab" />
         </p>
-    </td>
+    </td> 
   </tr>
 </thead>
 </table>
