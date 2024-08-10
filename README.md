@@ -9,6 +9,7 @@
 ## Contact me:
 via email <b>abdallahsamehragab1@gmail.com</b>
 
+## 📌 Pinned Repositories:
 
 ### 🌐 Socials:
 <p align="left">
