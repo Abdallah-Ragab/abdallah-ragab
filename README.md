@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdallah Ragab</h1>
+<h1 align="center">Hey, I'm Abdallah Ragab</h1>
 <h3 align="center">A Computer Engineering Student Mainly Focused On Backend</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdallah-ragab&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah-ragab" /> </p>
